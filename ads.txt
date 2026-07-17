@@ -1,5 +1,7 @@
 google.com, pub-5841711581261172, DIRECT, f08c47fec0942fa0
 
+facebook.com, 130259155815748, DIRECT, c3e20eee3f780d68
+
 thejungletechnology.com, 161026, DIRECT
 pixelverge.com, 161026, DIRECT
 google.com, pub-9911740406682987, RESELLER, f08c47fec0942fa0
