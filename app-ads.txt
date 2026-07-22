@@ -145,3 +145,9 @@ xandr.com, 17724, RESELLER
 zetaglobal.net, 891, RESELLER
 zmaticoo.com, 5135082, RESELLER
 
+
+OWNERDOMAIN= finpilotsupport.github.io				
+MANAGERDOMAIN= anymanager.io				
+anymanager.io, A5011, DIRECT				
+google.com, pub-9058291854443881, RESELLER, f08c47fec0942fa0				
+google.com, pub-3389025920703065, RESELLER, f08c47fec0942fa0		
