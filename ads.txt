@@ -150,3 +150,8 @@ MANAGERDOMAIN= anymanager.io
 anymanager.io, A5011, DIRECT				
 google.com, pub-9058291854443881, RESELLER, f08c47fec0942fa0				
 google.com, pub-3389025920703065, RESELLER, f08c47fec0942fa0				
+
+
+google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0
+google.com, pub-9368783394598679, RESELLER, f08c47fec0942fa0
+lhkmedia.io, 123139282131, DIRECT
